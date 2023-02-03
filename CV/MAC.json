@@ -170,6 +170,24 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Testing eventos ",
+        "startDate": "2020-08-01",
+        "institution": {
+          "name": "Universidad Carlos I de España y V de Alemania",
+          "description": "Testing eventos "
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
