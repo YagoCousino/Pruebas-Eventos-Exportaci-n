@@ -76,6 +76,22 @@
         },
         "roles": [
           {
+            "name": "Testing Instrumetnación MAC",
+            "startDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "Testing Instrumetnación MAC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
             "name": "TEst Job Position",
             "startDate": "2011-05-01",
             "challenges": [
