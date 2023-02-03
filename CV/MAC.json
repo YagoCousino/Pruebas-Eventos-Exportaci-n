@@ -117,6 +117,25 @@
     "projects": [
       {
         "details": {
+          "name": "Testing Instrumentación MAC",
+          "description": "Testing Instrumentación MAC"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2012-05-01",
+            "competences": [
+              {
+                "name": "Abap",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "La Media inglesa",
           "description": "La Media inglesaLa Media inglesaLa Media inglesaLa Media inglesaLa Media inglesaLa Media inglesa",
           "URL": "https://getmanfred.com/blog"
