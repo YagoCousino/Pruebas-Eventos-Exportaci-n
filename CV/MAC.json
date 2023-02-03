@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Yago",
       "surnames": "Cousiño Estévez",
       "title": "Pruebo eventos de vuelta",
-      "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .",
+      "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf... .\ncbfdhgdhbgfbfg",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/29/4f83e266-2ccb-4071-b6fb-f3b6cd113489_d61df1be-c200-414d-9.1516186062727"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -73,6 +74,11 @@
           {
             "name": "Testando Conexión con GitHub",
             "startDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Amazon SQS",
@@ -121,7 +127,12 @@
         "roles": [
           {
             "name": "Posición prueba",
-            "startDate": "1991-05-01"
+            "startDate": "1991-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       }
@@ -172,7 +183,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -215,6 +227,7 @@
       "preferredRoles": [
         "Product Manager"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
