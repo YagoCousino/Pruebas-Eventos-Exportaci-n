@@ -8,7 +8,7 @@
     "profile": {
       "name": "Yago",
       "surnames": "Cousiño Estévez",
-      "title": "Pruebo eventos de vuelta",
+      "title": "Product Manager",
       "description": "Aprendiendo a crear productos digitales en Manfred. Buscaba un nuevo estándar en el periodismo deportivo con The Wing. Siempre preparado para el siguiente evento: NOSDay, Cañas A La Madrileña, TarugoConf...",
       "avatar": {
         "alt": "profile-image",
@@ -77,12 +77,6 @@
             "challenges": [
               {
                 "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "Amazon SQS",
-                "type": "technology"
               }
             ]
           }
